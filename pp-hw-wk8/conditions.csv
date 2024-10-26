@@ -1,0 +1,39 @@
+year,care_hours,cognition_related,medical_condition,source_file
+2016,full-day,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_01.txt
+2017,Not Specified,False,"The appellant was determined to not suffer from Dementia.  
+",project-docs/decision_02.txt
+2021,full-day,True,Alzheimer's,project-docs/decision_03.txt
+2021,Not Specified,False,"The appellant was determined to not suffer from Dementia.  
+",project-docs/decision_04.txt
+2018,This order provides 12-hour care.,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_05.txt
+2021,This order provides 12-hour care.,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_06.txt
+2019,Not Specified,False,"The appellant was determined to not suffer from Dementia.  
+",project-docs/decision_07.txt
+2016,full-day,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_08.txt
+2014,full-day,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_09.txt
+2016,full-day,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_10.txt
+2019,full-day,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_11.txt
+2019,Not Specified,False,"The appellant was determined to not suffer from Dementia.  
+",project-docs/decision_12.txt
+2021,full-day,True,Alzheimer's,project-docs/decision_13.txt
+2018,This order provides 12-hour care.,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_14.txt
+2013,This order provides 12-hour care.,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_15.txt
+2020,This order provides 12-hour care.,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_16.txt
+2016,Not Specified,False,"The appellant was determined to not suffer from Dementia.  
+",project-docs/decision_17.txt
+2017,full-day,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_18.txt
+2020,full-day,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_19.txt
+2017,full-day,True,"The appellant was determined to suffer from Dementia.  
+",project-docs/decision_20.txt
