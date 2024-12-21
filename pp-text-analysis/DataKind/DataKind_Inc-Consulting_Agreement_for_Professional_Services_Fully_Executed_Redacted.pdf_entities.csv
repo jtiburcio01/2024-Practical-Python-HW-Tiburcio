@@ -1,0 +1,638 @@
+text,label
+This Consulting Agreement,LAW
+"July 14,
+2024",DATE
+The City University of New York,ORG
+"John Jay
+College of Criminal Justice",ORG
+"Section 6203 of New York
+Education Law",LAW
+New York,GPE
+NY,GPE
+"DataK ind, Inc.",ORG
+1,CARDINAL
+Consultant,ORG
+10,CARDINAL
+Consultant,ORG
+Parties,ORG
+2,CARDINAL
+Company,ORG
+Company,ORG
+Company,ORG
+thirty (30) days,DATE
+Consultant,ORG
+Company,ORG
+Consultant,ORG
+Deliverable,PRODUCT
+thirty (30) day,DATE
+Company,ORG
+Company,ORG
+Consultant,ORG
+3,CARDINAL
+Consultant,ORG
+Consultant,ORG
+Consultant,ORG
+Company,ORG
+Company,ORG
+Consultant,ORG
+Consultant,ORG
+Company,ORG
+monthly,DATE
+hours,TIME
+Company,ORG
+thirty (30) days,DATE
+Consultant,ORG
+U.S.,GPE
+Company,ORG
+Justworks,ORG
+one (1) year,DATE
+thirty (30) days,DATE
+Company,ORG
+Consultant,ORG
+Company,ORG
+Consultant,ORG
+Consultant,ORG
+Company,ORG
+Consultant,ORG
+Consultant,ORG
+Company,ORG
+Company,ORG
+Consultant,ORG
+only one,CARDINAL
+1,CARDINAL
+"1 2-month
+period",DATE
+4.,CARDINAL
+Consultant,ORG
+Consultant,ORG
+Consultant,ORG
+Company,ORG
+Consultant,ORG
+Company,ORG
+Consultant,ORG
+Consultant,ORG
+Company,ORG
+monthly,DATE
+Company,ORG
+thirty (30) days,DATE
+5.,CARDINAL
+Company,ORG
+Consultant,ORG
+Company,ORG
+Company,ORG
+Data,ORG
+Data,ORG
+Consultant,ORG
+Consultant,ORG
+Data,ORG
+Consultant,ORG
+Consultant,ORG
+6,CARDINAL
+Consultant,ORG
+Company,ORG
+Consultant,ORG
+ii,CARDINAL
+Consultant,ORG
+"Schedule
+A.",LAW
+iii,CARDINAL
+Consultant,ORG
+Company,ORG
+Consultant,ORG
+Consultant,ORG
+Company,ORG
+Consultant,ORG
+Company,ORG
+"the Family Educational Rights
+and Privacy Act",LAW
+20 U.S.C. § 1232,LAW
+34 CFR Part 99,LAW
+third,ORDINAL
+the United States Department of Education,ORG
+Company,ORG
+Company,ORG
+"Section 8 of the State Court of
+Claims Act",LAW
+Consultant,ORG
+DataKind,ORG
+Licensor,ORG
+DataKind,ORG
+Consultant,ORG
+third,ORDINAL
+Licensor,ORG
+third,ORDINAL
+Company,ORG
+Company,ORG
+New York State’s,GPE
+Freedom of Information Law,LAW
+Consultant,ORG
+Consultant,ORG
+Company,ORG
+iii,CARDINAL
+Consultant,ORG
+Company,ORG
+Consultant,ORG
+third,ORDINAL
+Consultant,ORG
+Company,ORG
+Consultant,ORG
+"September 30, 2024,",DATE
+Company,ORG
+ten (10) days’,DATE
+Company,ORG
+thirty (30) days’,DATE
+Consultant,ORG
+Company,ORG
+Consultant,ORG
+Consultant,ORG
+Company,ORG
+Party,ORG
+Party,ORG
+Party,ORG
+"Sections 5,",LAW
+6,CARDINAL
+7,CARDINAL
+8,CARDINAL
+9,CARDINAL
+10-15,CARDINAL
+THREE,CARDINAL
+3,CARDINAL
+SECTION 10.1,LAW
+SECTION 10.2,LAW
+1,CARDINAL
+Consultant,ORG
+Company,ORG
+Consultant,ORG
+hours,TIME
+Consultant,ORG
+Social Security,ORG
+third,ORDINAL
+Party,ORG
+three (3) days,DATE
+U.S.,GPE
+Party,ORG
+June 2023,DATE
+third,ORDINAL
+the State of New York,GPE
+New York,GPE
+"DataKind, Inc.",ORG
+The City University of New York,ORG
+John Jay College of Criminal Justice,ORG
+"Nore
+vie CS",PERSON
+"Pus Davo
+
+",PERSON
+"The City University of New
+",ORG
+Office of the Gengral Counsel,ORG
+DataKind,ORG
+Google.org,ORG
+DataKind,ORG
+John Jay College,ORG
+10-20,CARDINAL
+"1,500",CARDINAL
+CUSP,ORG
+CUST,ORG
+"7,000",CARDINAL
+CUSP,ORG
+CUST,ORG
+CUSP/T,ORG
+DataKind,ORG
+DataK ind,ORG
+Consultant,ORG
+DataKind,ORG
+John Jay College,ORG
+Completion for Upper Division Program,ORG
+CUSP,ORG
+CUSP,ORG
+College,ORG
+Company,ORG
+John Jay College,ORG
+CUSP,ORG
+"July 14, 2024",DATE
+"September 30, 2024",DATE
+DataKind,ORG
+"December 30, 2024",DATE
+DataKind,ORG
+DataKind,ORG
+U.S. dollars,MONEY
+Company,ORG
+Justworks,ORG
+Justworks,ORG
+DataKind,ORG
+thirty (30) days,DATE
+DataKind,ORG
+Consultant,ORG
+"15,000",MONEY
+Consultant,ORG
+"15,000",MONEY
+John Jay College,ORG
+DataKind,ORG
+"September 30,
+2024",DATE
+STANDARD,PERSON
+NEW YORK,GPE
+June 2023,DATE
+1.,CARDINAL
+"3
+2",CARDINAL
+"3
+",CARDINAL
+3.,CARDINAL
+"3
+",CARDINAL
+"3
+§",CARDINAL
+"3
+6",CARDINAL
+3-4,CARDINAL
+"4
+",CARDINAL
+"4
+",CARDINAL
+"4
+10",CARDINAL
+"4
+11",CARDINAL
+"4
+12",CARDINAL
+"5
+13",CARDINAL
+"5
+14",CARDINAL
+"5
+15",CARDINAL
+"5
+",CARDINAL
+"5
+",CARDINAL
+Service of Process,LAW
+"5
+18",CARDINAL
+"5-6
+19",CARDINAL
+MacBride Fair Employment Principles,LAW
+"6
+20",CARDINAL
+Omnibus Procurement Act of 1992,LAW
+"6
+21",CARDINAL
+Reciprocity and Sanctions Provisions,LAW
+"6
+22",CARDINAL
+Compliance with Breach Notification and Data Security Laws,LAW
+"6
+23",CARDINAL
+Compliance with Consultant Disclosure Law,LAW
+"6
+24",CARDINAL
+"7
+25",CARDINAL
+Iran Divestment Act,LAW
+"7
+27",CARDINAL
+"7
+
+",CARDINAL
+2,CARDINAL
+June 2023,DATE
+State,ORG
+"Section 41
+
+of the State Finance Law",LAW
+State,ORG
+2,CARDINAL
+Section 138,LAW
+the State Finance Law,LAW
+State,ORG
+Article XI of the State Finance Law,LAW
+Contractor,ORG
+State,ORG
+Contractor,ORG
+State,ORG
+State,ORG
+Article 5-A,LAW
+the State Finance Law,LAW
+3,CARDINAL
+PTROLLER,ORG
+Section 112 of the State Finance Law,LAW
+"50,000",MONEY
+"75,000",MONEY
+State University of New York,ORG
+"City
+University of New York",ORG
+"150,000",MONEY
+"State University
+Health Care Facilities",ORG
+State,ORG
+"25,000",MONEY
+State,ORG
+State,ORG
+"the Office of General
+Services",ORG
+"the Office
+of General Services Business Services Center",ORG
+"85,000",MONEY
+"the Office
+of General Services",ORG
+"125,000",MONEY
+"200,000",MONEY
+3,CARDINAL
+4.,CARDINAL
+Section 142,LAW
+the State Finance Law,LAW
+"the Workers’ Compensation
+Law.",LAW
+Article 15 of the Executive Law,LAW
+the Human Rights Law,LAW
+State,ORG
+"the
+Human Rights Law",LAW
+the Human Rights Law,LAW
+Section 220-e,LAW
+"the Labor
+Law",LAW
+New York,GPE
+New York State,GPE
+"Section 230 of
+the Labor Law",LAW
+Section 239,LAW
+Contractor,ORG
+"New York
+State",GPE
+50.00,MONEY
+Section 220-e,LAW
+Section 239,LAW
+second,ORDINAL
+6.,CARDINAL
+Article 8 of the Labor Law,LAW
+Article 9,LAW
+Contractor,ORG
+hours,TIME
+days,DATE
+the Labor Law,LAW
+"the State Labor
+Department",ORG
+Contractor,ORG
+the State Labor Department,ORG
+June 2023,DATE
+the Labor Law,LAW
+"April
+28, 2008",DATE
+"Article 8
+of the Labor Law",LAW
+"Subdivision 3-
+a",LAW
+Section 220,LAW
+the Labor Law,LAW
+State,ORG
+State,ORG
+Section 139-d,LAW
+Contractor,ORG
+Contractor,ORG
+Contractor,ORG
+State,ORG
+Contractor,ORG
+8,CARDINAL
+Section 220-f,LAW
+the Labor Law,LAW
+"Section
+139-h",LAW
+the State Finance Law,LAW
+"5,000",MONEY
+Contractor,ORG
+Contractor,ORG
+"Export
+Administration Act of 1979",LAW
+"50 USC App. Sections 2401 et
+seq",LAW
+Contractor,ORG
+Contractor,ORG
+"the United States Commerce
+Department",ORG
+"the United
+States",GPE
+five (5) business days,DATE
+2 NYCRR § 105.4,LAW
+9.,CARDINAL
+State,ORG
+State,ORG
+State,ORG
+State,ORG
+State,ORG
+State,ORG
+State,ORG
+State,ORG
+State,ORG
+16.,CARDINAL
+4,CARDINAL
+the calendar year,DATE
+six (6) additional years,DATE
+Records,ORG
+normal business hours,TIME
+State,ORG
+State,ORG
+"Section 87 of
+the Public Officers Law",LAW
+Statute,LAW
+State,ORG
+ii,CARDINAL
+Statute,LAW
+State,ORG
+New York State,GPE
+New York State,GPE
+"the
+Statewide Financial System",ORG
+1,CARDINAL
+Section 5 of the State Tax Law,LAW
+State,ORG
+State,ORG
+2,CARDINAL
+the Statewide Financial System,ORG
+"the Vendor
+Management Unit",ORG
+the Bureau of State Expenditures,ORG
+Office of the State Comptroller,ORG
+110,CARDINAL
+Albany,GPE
+"New
+",GPE
+2236,MONEY
+June 2023,DATE
+"Section
+312",LAW
+the Executive Law,LAW
+5 NYCRR Part 143,LAW
+"25,000.00",MONEY
+"100,000.00",MONEY
+"100,000.00",MONEY
+State,ORG
+Contractor,ORG
+Contractor,ORG
+Contractor,ORG
+State,ORG
+Contractor,ORG
+Contractor,ORG
+Contractor,ORG
+State,ORG
+Contractor,ORG
+"25,000.00",MONEY
+Work,WORK_OF_ART
+Work,ORG
+Section 312,LAW
+5,CARDINAL
+New York State,GPE
+State,ORG
+Section 312,LAW
+"the Department of Economic
+Development’s",ORG
+"Division of Minority and Women’s Business
+Development",ORG
+New York,GPE
+Article 1 1-A,LAW
+the State Finance Law,LAW
+16.,CARDINAL
+17.,CARDINAL
+"the State Civil Practice Law & Rules
+",LAW
+State,ORG
+the United States Postal Service,ORG
+State,ORG
+State,ORG
+"thirty (30)
+calendar days",DATE
+18,CARDINAL
+PROHIBI,GPE
+Section 165 of the State Finance Law,LAW
+State,ORG
+June 2023,DATE
+State,ORG
+§ 165 State Finance Law,LAW
+State,ORG
+State,ORG
+19,CARDINAL
+MACBRIDE FAIR EMPLOYMENT PRINCIPLES,LAW
+the MacBride Fair Employment Principles,LAW
+Chapter 807,LAW
+the Laws of 1992,LAW
+Northern Ireland,GPE
+"Northern
+Ireland",LOC
+"the MacBride Fair Employment
+Principles",LAW
+"Section 165 of the New York State
+Finance Law",LAW
+20.,CARDINAL
+OMNIBUS PROCUREMENT ACT,LAW
+1992,DATE
+New York State,GPE
+New York State,GPE
+New York State,GPE
+NYS Department of Economic Development,ORG
+Division for Small Business and Technology Development,ORG
+Albany,GPE
+New York,GPE
+12245,CARDINAL
+518-292-5100,CARDINAL
+NYS,GPE
+Department of Economic Development,ORG
+Division of Minority and Women’s Business Development,ORG
+New York,GPE
+NY,GPE
+The Omnibus Procurement Act of 1992,LAW
+Chapter 844,LAW
+"the
+Laws of 1992",LAW
+State Finance Law,LAW
+§ 139-i,LAW
+"Public
+Authorities Law",LAW
+$1 million,MONEY
+6,CARDINAL
+New York State,GPE
+State,ORG
+"the Federal Equal
+Opportunity Act of 1972",LAW
+P.L. 92-261,LAW
+New York State,GPE
+the Job Service Division,ORG
+"the New York State
+Department of Labor",ORG
+State,ORG
+State,ORG
+State,ORG
+21.,CARDINAL
+New York State,GPE
+New York State,GPE
+"the Omnibus
+Procurement Act 1994",LAW
+2000,DATE
+Chapter 684,LAW
+"State Finance Law
+§ 165(6}",LAW
+Public Authorities Law § 2879(5),LAW
+May 2023,DATE
+South Carolina,GPE
+Alaska,GPE
+West Virginia,GPE
+Wyoming,GPE
+Louisiana,GPE
+Hawaii,GPE
+"the New Y ork State Information Security
+Breach and Notification Act",LAW
+"General Business Law §§ 899-aa
+",LAW
+899-bb and,CARDINAL
+State Technology Law § 208,LAW
+23.,CARDINAL
+"Section 163
+(4)(g)",LAW
+the State Finance Law,LAW
+"Chapter 10 of
+the Laws of 2006",LAW
+the Department of Civil Service,ORG
+"the State
+Comptroller",ORG
+June 2023,DATE
+24,CARDINAL
+"State
+Finance Law",LAW
+§§ 139-j,LAW
+139-k,LAW
+State Finance Law,LAW
+§§ 139-j,LAW
+139,LAW
+State,ORG
+25.,CARDINAL
+"Tax Law
+§ 5-a",LAW
+Tax Law § 5-a,LAW
+"the
+Department of Taxation and Finance",ORG
+Tax Law § 5-a,LAW
+Contractor,ORG
+State,ORG
+26.,CARDINAL
+IRAN DIVESTMENT ACT,LAW
+"this
+
+Agreement",LAW
+"State
+Finance Law § 165-a",LAW
+"the “Entities Determined
+to be Non-Responsive Bidders/Offerers",LAW
+"the New
+
+York State Iran Divestment Act",LAW
+2012,DATE
+"the Prohibited
+Entities List",LAW
+the Prohibited Entities List,LAW
+State,ORG
+Contract,LAW
+State Finance Law,LAW
+§ 165-a,LAW
+90 days,DATE
+7,CARDINAL
+June 2023,DATE

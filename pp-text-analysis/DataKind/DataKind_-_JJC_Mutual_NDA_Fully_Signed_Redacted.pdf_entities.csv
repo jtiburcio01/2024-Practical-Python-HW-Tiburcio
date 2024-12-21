@@ -1,0 +1,82 @@
+text,label
+"June , 2021",DATE
+"The City
+
+University of New York",ORG
+CUNY,ORG
+John Jay College of Criminal Justice,ORG
+New York,GPE
+NY,GPE
+"DataKind, Inc.",ORG
+ataKind,ORG
+John Jay College,ORG
+CUNY,ORG
+2,CARDINAL
+one,CARDINAL
+3,CARDINAL
+2.,CARDINAL
+third,ORDINAL
+3.,CARDINAL
+November 2018,DATE
+1,CARDINAL
+4,CARDINAL
+3,CARDINAL
+third,ORDINAL
+third,ORDINAL
+Discloser,ORG
+Discloser,ORG
+Discloser,ORG
+Discloser,ORG
+5.,CARDINAL
+6.,CARDINAL
+third,ORDINAL
+Discloser,ORG
+The Family Educational Rights and Privacy Act,LAW
+"20
+U.S.C.A. 1232",LAW
+CUNY,ORG
+CUNY,ORG
+U.S.,GPE
+the Export Administration Regulations,LAW
+International Traffic in Arms Regulations,LAW
+"the Office of Foreign
+Assets Control",LAW
+OFAC,ORG
+non-CUNY,ORG
+Mutual NDA CUNY OGC,LAW
+November 2018,DATE
+2,CARDINAL
+4,CARDINAL
+CUNY,ORG
+CUNY,ORG
+"at least
+30 days",DATE
+CUNY,ORG
+non-CUNY,ORG
+CUNY,ORG
+non-CUNY,ORG
+CUNY,ORG
+CUNY,ORG
+CUNY,ORG
+thirty (30) days,DATE
+one,CARDINAL
+five (5) years,DATE
+fifteen (15) days,DATE
+Discloser,ORG
+Recipient,ORG
+New York State,GPE
+"New York
+County",GPE
+the United States District Court for the Southern District of New York,ORG
+November 2018,DATE
+one,CARDINAL
+"DataKind, Inc.",ORG
+The City University of New York,ORG
+John Jay Coll,PERSON
+"Criminal
+Jusii",ORG
+Derek Davis,PERSON
+CUNY,ORG
+November 2018,DATE
+4,CARDINAL
+4,CARDINAL

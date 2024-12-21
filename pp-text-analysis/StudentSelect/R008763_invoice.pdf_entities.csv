@@ -1,0 +1,25 @@
+text,label
+Milwaukee,GPE
+WI,GPE
+53202,CARDINAL
+The State University of New Jersey-,ORG
+School of Health Professions,ORG
+Bergen Street,FAC
+Newark,GPE
+NJ,GPE
+First,ORDINAL
+two,CARDINAL
+annual,DATE
+10/21/2022- 10/20/2023,DATE
+U.S.,GPE
+"1,750.00",CARDINAL
+Buffalo Street,FAC
+403,CARDINAL
+Milwaukee,GPE
+WI,GPE
+53202,CARDINAL
+"1,750.00",MONEY
+Associated Bank N.A.,ORG
+"Talent Select Al, LLC",ORG
+1,CARDINAL
+1,CARDINAL
